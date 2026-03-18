@@ -1,0 +1,212 @@
+[
+  {
+    "id": 1,
+    "category": "Cardiovascular",
+    "vignette": "A 58-year-old man with hypertension presents with a persistent dry cough. He was started on a new antihypertensive 3 weeks ago. Blood pressure is well controlled at 128/82 mmHg. Chest X-ray is clear.",
+    "question": "Which drug is most likely responsible for his cough?",
+    "options": {
+      "A": "Losartan",
+      "B": "Enalapril",
+      "C": "Amlodipine",
+      "D": "Hydrochlorothiazide"
+    },
+    "answer": "B",
+    "explanation": "ACE inhibitors like Enalapril block the breakdown of bradykinin, causing its accumulation in the lungs. This leads to a dry, persistent cough in ~10-15% of patients. Losartan (ARB) does NOT cause cough because it blocks angiotensin II receptor directly without affecting bradykinin. This is a classic USMLE high-yield distinction."
+  },
+  {
+    "id": 2,
+    "category": "Cardiovascular",
+    "vignette": "A 45-year-old woman with hypertension and diabetes is started on a new medication. Two weeks later she develops bilateral leg swelling. Her BP is now 122/78 mmHg and kidney function is normal.",
+    "question": "Which antihypertensive is most likely causing her edema?",
+    "options": {
+      "A": "Lisinopril",
+      "B": "Metoprolol",
+      "C": "Amlodipine",
+      "D": "Losartan"
+    },
+    "answer": "C",
+    "explanation": "Amlodipine is a dihydropyridine calcium channel blocker that causes preferential dilation of arterioles. This creates a hydrostatic pressure imbalance, pushing fluid into interstitial tissue — resulting in dependent pitting edema. It is not caused by fluid retention. ACE inhibitors and ARBs do not cause peripheral edema."
+  },
+  {
+    "id": 3,
+    "category": "Cardiovascular",
+    "vignette": "A 67-year-old man with heart failure (EF 30%) is admitted for worsening dyspnea. He is started on a drug that reduces preload and afterload and has been shown to reduce mortality in heart failure. Two days later his creatinine rises from 1.1 to 1.8 mg/dL.",
+    "question": "Which drug most likely caused the rise in creatinine?",
+    "options": {
+      "A": "Furosemide",
+      "B": "Carvedilol",
+      "C": "Lisinopril",
+      "D": "Spironolactone"
+    },
+    "answer": "C",
+    "explanation": "ACE inhibitors (Lisinopril) dilate the efferent arteriole of the glomerulus, reducing intraglomerular pressure. In heart failure patients with reduced renal perfusion, the kidneys rely on angiotensin II to maintain GFR via efferent constriction. Blocking this causes a transient rise in creatinine. A rise of <30% is acceptable and expected — the drug should not be stopped."
+  },
+  {
+    "id": 4,
+    "category": "Endocrine",
+    "vignette": "A 55-year-old woman with type 2 diabetes presents with recurrent urinary tract infections and genital itching. Her HbA1c improved from 9.1% to 7.2% since starting a new medication 3 months ago. She has also lost 4 kg.",
+    "question": "Which drug class was most likely added to her regimen?",
+    "options": {
+      "A": "GLP-1 agonist",
+      "B": "SGLT-2 inhibitor",
+      "C": "DPP-4 inhibitor",
+      "D": "Sulfonylurea"
+    },
+    "answer": "B",
+    "explanation": "SGLT-2 inhibitors (empagliflozin, dapagliflozin) block glucose reabsorption in the proximal tubule, causing glucosuria. This leads to weight loss and BP reduction. The key side effects are genital mycotic infections and UTIs due to the sugar-rich urine environment. GLP-1 agonists also cause weight loss but not the genital infection pattern."
+  },
+  {
+    "id": 5,
+    "category": "Endocrine",
+    "vignette": "A 48-year-old man with type 2 diabetes is started on metformin. After 2 years, he develops tingling in both feet and subacute combined degeneration features on neurological exam. Labs show macrocytic anemia.",
+    "question": "What is the most likely mechanism of his neurological symptoms?",
+    "options": {
+      "A": "Folate deficiency from metformin",
+      "B": "Direct nerve toxicity of metformin",
+      "C": "Vitamin B12 deficiency from metformin",
+      "D": "Diabetic peripheral neuropathy"
+    },
+    "answer": "C",
+    "explanation": "Metformin impairs B12 absorption in the terminal ileum by interfering with calcium-dependent B12-intrinsic factor complex uptake. Long-term use (>3 years) is associated with B12 deficiency. Subacute combined degeneration (dorsal column + lateral corticospinal tract involvement) with macrocytic anemia is classic B12 deficiency. Annual B12 monitoring is recommended."
+  },
+  {
+    "id": 6,
+    "category": "Pulmonology",
+    "vignette": "A 30-year-old woman with asthma uses a short-acting bronchodilator as needed and is started on a daily controller medication. Six months later she develops oropharyngeal candidiasis. She denies immunosuppressive conditions.",
+    "question": "Which medication is responsible for her oral candidiasis?",
+    "options": {
+      "A": "Montelukast",
+      "B": "Ipratropium",
+      "C": "Inhaled fluticasone",
+      "D": "Theophylline"
+    },
+    "answer": "C",
+    "explanation": "Inhaled corticosteroids (ICS) like fluticasone deposit in the oropharynx and suppress local immunity, promoting Candida overgrowth. This is a classic side effect. Prevention: rinse mouth with water after each use and use a spacer device. Montelukast (leukotriene antagonist) and ipratropium do not cause this."
+  },
+  {
+    "id": 7,
+    "category": "Psychiatry",
+    "vignette": "A 28-year-old man with schizophrenia is stable on haloperidol. Over 6 months he develops repetitive lip-smacking, tongue protrusion, and choreiform hand movements. He is distressed by these involuntary movements.",
+    "question": "What is the most appropriate next step in management?",
+    "options": {
+      "A": "Increase haloperidol dose",
+      "B": "Add benztropine immediately",
+      "C": "Switch to clozapine or quetiapine",
+      "D": "Add valbenazine"
+    },
+    "answer": "C",
+    "explanation": "This is tardive dyskinesia (TD) — a late-onset, potentially irreversible movement disorder from chronic dopamine D2 blockade. The first step is reducing or switching the offending antipsychotic to a lower-potency atypical (clozapine, quetiapine). Benztropine treats acute dystonia and parkinsonism, not TD. Valbenazine (VMAT2 inhibitor) is used if antipsychotic cannot be stopped."
+  },
+  {
+    "id": 8,
+    "category": "Nephrology",
+    "vignette": "A 72-year-old woman on lithium for bipolar disorder presents with polyuria and polydipsia. Serum Na is 148 mEq/L. Urine osmolality is 120 mOsm/kg even after water deprivation. Urine osmolality does not rise after desmopressin administration.",
+    "question": "What type of diabetes insipidus is she experiencing?",
+    "options": {
+      "A": "Central DI",
+      "B": "Nephrogenic DI",
+      "C": "Primary polydipsia",
+      "D": "Osmotic diuresis"
+    },
+    "answer": "B",
+    "explanation": "Lithium causes nephrogenic DI by blocking ADH (vasopressin) action on the collecting duct — it inhibits adenylyl cyclase, preventing aquaporin-2 insertion. No response to desmopressin confirms nephrogenic origin (ADH-resistant). Central DI responds to desmopressin. Lithium-induced nephrogenic DI is treated by stopping lithium, amiloride, or thiazide + low-salt diet."
+  },
+  {
+    "id": 9,
+    "category": "Hematology",
+    "vignette": "A 60-year-old man with a prosthetic mitral valve on warfarin presents with an INR of 8.2. He has no active bleeding. He recently started a new medication for a fungal nail infection.",
+    "question": "Which drug most likely caused this INR elevation?",
+    "options": {
+      "A": "Terbinafine",
+      "B": "Fluconazole",
+      "C": "Clotrimazole topical",
+      "D": "Nystatin"
+    },
+    "answer": "B",
+    "explanation": "Fluconazole is a potent CYP2C9 inhibitor. Warfarin (S-warfarin) is primarily metabolized by CYP2C9. Inhibiting this enzyme reduces warfarin clearance, causing INR to rise significantly. Terbinafine has minimal CYP2C9 interaction. Topical clotrimazole and nystatin have negligible systemic absorption and do not interact. Always check drug interactions when starting antifungals in warfarinized patients."
+  },
+  {
+    "id": 10,
+    "category": "Gastroenterology",
+    "vignette": "A 35-year-old woman is prescribed metronidazole for bacterial vaginosis. That evening she attends a dinner party and drinks two glasses of wine. Within 30 minutes she develops facial flushing, headache, palpitations, and nausea.",
+    "question": "What is the mechanism of her reaction?",
+    "options": {
+      "A": "Allergic reaction to metronidazole",
+      "B": "Acetaldehyde accumulation due to aldehyde dehydrogenase inhibition",
+      "C": "Serotonin syndrome from metronidazole-alcohol interaction",
+      "D": "Metronidazole-induced mast cell degranulation"
+    },
+    "answer": "B",
+    "explanation": "Metronidazole inhibits aldehyde dehydrogenase (ALDH), the enzyme that converts acetaldehyde to acetate in alcohol metabolism. Alcohol ingestion leads to acetaldehyde accumulation, causing the disulfiram-like reaction: flushing, headache, nausea, palpitations. This is the same mechanism as disulfiram itself, used intentionally in alcohol aversion therapy. Patients must avoid alcohol during treatment and 48 hours after."
+  },
+  {
+    "id": 11,
+    "category": "Cardiology",
+    "vignette": "A 70-year-old man with atrial fibrillation is started on amiodarone. Three months later he complains of blurry vision, and labs reveal TSH <0.01 mIU/L with elevated free T4. He also has a new dry cough and his chest X-ray shows bilateral infiltrates.",
+    "question": "Which side effect of amiodarone is NOT present in this patient?",
+    "options": {
+      "A": "Pulmonary toxicity",
+      "B": "Thyroid dysfunction",
+      "C": "Corneal microdeposits",
+      "D": "Hepatotoxicity"
+    },
+    "answer": "D",
+    "explanation": "This patient shows signs of amiodarone pulmonary toxicity (cough, bilateral infiltrates), hyperthyroidism (suppressed TSH, high T4), and corneal microdeposits (blurry vision). Hepatotoxicity is also a known amiodarone side effect but is NOT demonstrated here — LFTs were not mentioned as abnormal. Amiodarone is iodine-rich and causes both hypo and hyperthyroidism. It requires monitoring of TFTs, LFTs, PFTs, and eye exams."
+  },
+  {
+    "id": 12,
+    "category": "Infectious Disease",
+    "vignette": "A 25-year-old woman is prescribed trimethoprim-sulfamethoxazole for a UTI. She has G6PD deficiency. Two days into treatment she develops pallor, jaundice, and dark urine. Her hemoglobin drops from 12 to 7.5 g/dL.",
+    "question": "What is the mechanism of her anemia?",
+    "options": {
+      "A": "Aplastic anemia from sulfonamide toxicity",
+      "B": "Autoimmune hemolytic anemia",
+      "C": "Oxidative hemolysis due to G6PD deficiency",
+      "D": "Megaloblastic anemia from folate inhibition"
+    },
+    "answer": "C",
+    "explanation": "G6PD is needed to regenerate NADPH, which maintains glutathione in its reduced (protective) form. Without functional G6PD, oxidative stress from sulfonamides overwhelms red cell defenses, causing Heinz body formation and hemolytic anemia. Classic peripheral smear: bite cells and Heinz bodies. Sulfonamides, dapsone, primaquine, and nitrofurantoin are key triggers to remember."
+  },
+  {
+    "id": 13,
+    "category": "Neurology",
+    "vignette": "A 40-year-old man with a seizure disorder is well controlled on phenytoin. He starts isoniazid (INH) for latent TB. Over the next 2 weeks he has breakthrough seizures. His phenytoin level is 4 mcg/mL (therapeutic: 10-20).",
+    "question": "What is the most likely drug interaction?",
+    "options": {
+      "A": "INH induces CYP2C9, reducing phenytoin levels",
+      "B": "INH inhibits CYP2C9, but phenytoin auto-induces its own metabolism",
+      "C": "INH inhibits CYP2C9, initially raising phenytoin; then phenytoin induces CYP3A4 to clear INH faster",
+      "D": "INH induces CYP3A4, increasing phenytoin clearance"
+    },
+    "answer": "C",
+    "explanation": "INH inhibits CYP2C9 (phenytoin's primary metabolizer), initially raising phenytoin levels. However, phenytoin is a strong inducer of CYP3A4 and other CYPs — long-term, this can alter the balance. More practically: the low phenytoin level here likely reflects INH-induced toxicity causing non-compliance, or a different enzyme dynamic. The classic teaching: INH initially RAISES phenytoin (toxicity risk). Close monitoring of phenytoin levels is required when adding INH."
+  },
+  {
+    "id": 14,
+    "category": "Pharmacology",
+    "vignette": "A 5-year-old boy is brought to the ER after ingesting several tablets from his grandmother's medicine cabinet. He has pinpoint pupils, bradycardia, excessive salivation, lacrimation, urination, and defecation. He is unresponsive.",
+    "question": "What is the most appropriate antidote?",
+    "options": {
+      "A": "Naloxone",
+      "B": "Flumazenil",
+      "C": "Atropine + pralidoxime",
+      "D": "N-acetylcysteine"
+    },
+    "answer": "C",
+    "explanation": "This is classic cholinergic toxidrome: SLUDGE (Salivation, Lacrimation, Urination, Defecation, GI cramps, Emesis) + bradycardia + miosis. This occurs with organophosphate poisoning or anticholinesterase drugs that block acetylcholinesterase, flooding muscarinic receptors. Atropine blocks muscarinic receptors. Pralidoxime regenerates acetylcholinesterase (must be given early before 'aging'). Naloxone reverses opioids (miosis but no secretions)."
+  },
+  {
+    "id": 15,
+    "category": "Obstetrics",
+    "vignette": "A 29-year-old woman in her first trimester is found to have a DVT. She is anticoagulated. At 36 weeks her fetus is noted to have nasal hypoplasia and stippled epiphyses on ultrasound.",
+    "question": "Which anticoagulant was most likely used during the first trimester?",
+    "options": {
+      "A": "Heparin",
+      "B": "Enoxaparin",
+      "C": "Warfarin",
+      "D": "Rivaroxaban"
+    },
+    "answer": "C",
+    "explanation": "Warfarin embryopathy (nasal hypoplasia, stippled epiphyses, CNS defects) occurs with first trimester exposure (weeks 6-12) when it crosses the placenta and inhibits vitamin K-dependent bone/cartilage proteins. Heparin and LMWH (enoxaparin) do NOT cross the placenta and are safe in pregnancy. DOACs (rivaroxaban, apixaban) are contraindicated in pregnancy but do not cause this specific pattern. LMWH is the drug of choice for VTE in pregnancy."
+  }
+]
